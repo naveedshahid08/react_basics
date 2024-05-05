@@ -47,8 +47,10 @@ function App() {
             {...animal}
             removeLikes={() => likesHandler(animal.name, "remove")} // Binding the data with even handler
             /* addLikes={() => addLikes(animal.name)} // Here we are using Anonymous Function as we haven't used const addLikes = () => {} */
+
             removeCard={removeCard.bind(this, animal.name)} // This is another method same as the above one.
             addLikes={() => likesHandler(animal.name, "add")}
+
             /* likes={likes} */
           /> // The first removeLikes is prop and {removeLikes} is function
         ))}
