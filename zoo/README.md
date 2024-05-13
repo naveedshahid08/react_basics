@@ -1,8 +1,29 @@
-# React + Vite
+# Zoo App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This app is build using the latest JavaScript library known as React. We have used an external API and showed the list of Animals. Further we divided these into Animals and Birds using hooks in react. 
 
-Currently, two official plugins are available:
+## Technologies used
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Built with: 
+
+- HTML
+- JS
+- CSS
+- Reactjs 
+
+## Setup and usage
+
+
+## Screenshot
+
+## Sources 
+
+- [GitHub Guides - masterin markdown](https://guides.github.com/features/mastering-markdown/)
+- [Make a README](https://www.makeareadme.com/)
+
+## Authors and acknowledgment
+
+Margit Tennosaar
+- GitHub @margittennosaar
+- [LinkedIn](https://www.linkedin.com/in/margittennosaar/)
+
