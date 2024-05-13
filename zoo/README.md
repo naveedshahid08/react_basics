@@ -14,8 +14,10 @@ Built with:
 ## Setup and usage
 
 
-## Screenshot
 
+
+## Screenshot
+<img width="1438" alt="Screenshot 2024-05-13 at 11 16 25 AM" src="https://github.com/naveeshahid08/react_basics/assets/23113805/95e6d2f0-52c8-4524-962b-1f4d2011d826">
 ## Sources 
 
 - [GitHub Guides - masterin markdown](https://guides.github.com/features/mastering-markdown/)
